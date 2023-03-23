@@ -1,4 +1,4 @@
-﻿Processo SEI;Nº Contrato;CNPJ;Razão Social da Empresa;Nome completo;CPF;Cargo / Atividade;Lotação;Local de Exercício
+Processo SEI;Nº Contrato;CNPJ;Razão Social da Empresa;Nome completo;CPF;Cargo / Atividade;Lotação;Local de Exercício
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Alana Xian Wang;070.451.281-50;Auxiliar Administativo;VENANCIO;CGCRED
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Alerrandro dos Santos Nascimento;072.924.251-00;Auxiliar Administativo;BLOCO B;CGEFI
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Alex John Rezende Tonussi;727.019.351-72;Auxiliar Administativo;VENANCIO;COREG
@@ -84,7 +84,7 @@
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;João Paulo Gonçalves Bontempo;011.536.291-60;Auxiliar Administativo;BLOCO U;CSG
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;João Victor Alves de Morais;075.291.131-78;Auxiliar Administativo;BLOCO B;CDOC
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;João Vitor Fonseca Caldas;036.651.641-84;Auxiliar Administativo;BLOCO U;CGCE
-72031.004154/2020-76;017/2020;08.220.952/00+C1:C8701-22;RCS Tecnolodia ltda;Jociane Menezes Silva;611.729.853-67;Auxiliar Administativo;BLOCO B;CGDA
+72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Jociane Menezes Silva;611.729.853-67;Auxiliar Administativo;BLOCO B;CGDA
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Joelson Santos Vieira;834.240.161-87;Auxiliar Administativo;BLOCO B;CGGAH
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Johnatas Anderson de Faria;017.423.391-40;Auxiliar Administativo;BLOCO B;CGGAH
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Jonathas Douglas Araujo;035.461.031-73;Auxiliar Administativo;BLOCO B;CGEFI
@@ -174,7 +174,7 @@
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Ricardo Xavier da Silva;768.399.231-34;Auxiliar Administativo;BLOCO U;CAMP
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Rodrigo Gomes Lima;011.341.921-00;Auxiliar Administativo;BLOCO U;SPOA
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Roosevelt Araujo Silva;657.654.001-91;Auxiliar Administativo;BLOCO U;CGAP
-72031.004154+A175:A210/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Rosane Cristina Pereira Silva Bezerra;006.785.081-27;Auxiliar Administativo;BLOCO B;CGSNBP
+72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Rosane Cristina Pereira Silva Bezerra;006.785.081-27;Auxiliar Administativo;BLOCO B;CGSNBP
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Sabrina Nogueira Duarte; 062.669.111-75;Auxiliar Administativo;BLOCO B;CGGT
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Samara Alves da Silva;021.751.951-20;Auxiliar Administativo;BLOCO B;CGPC 
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Samara Michelle Reis Cardoso;072.277.781-77;Auxiliar Administativo;BLOCO U;CCONF
@@ -212,240 +212,124 @@
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Nataly Loiola Andrade da Silva;048.215.091-21;Recepcionistas;BLOCO U;GM
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Noemi Betriz Braglia Dourado;385.329.991-15;Recepcionistas;BLOCO B;SE
 72031.004154/2020-76;017/2020;08.220.952/0001-22;RCS Tecnolodia ltda;Rosana de Souza Santos;696.204.071-72;Recepcionistas;BLOCO B;4 ANDAR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Carolina dos Reis;793.953.501-30;Secretario Executivo Bilíngue;BLOCO U;AERI
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Livia Maria Arantes Ibiapino;056.964.401-18;Secretario Executivo Bilíngue;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Michelle de Oliveira Ayres;584.210.251-04;Secretario Executivo Bilíngue;BLOCO U;SE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Rosangela da Silva Sobrinha;015.652.801-05;Secretario Executivo Bilíngue;BLOCO U;SE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;POSTO VAGO;;Secretario Executivo Bilíngue;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Sergio Tavares Santos ;006.826.041-51;Secretario Executivo Bilíngue;BLOCO U;SGE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thaysa Guimaraes Silva;029.622.541-01;Secretario Executivo Bilíngue;BLOCO U;COPAR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Lucia de Jesus Santos Barbosa;620.766.981-91;Secretário Executivo;BLOCO U;GM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Paula Avalone dos Santos;025.017.271-26;Secretário Executivo;BLOCO U;ASTEC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Paula de Sousa Bagno da Silva;008.838.473-02;Secretário Executivo;BLOCO U;SNAIC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Andreia Justino da Costa;025.369.631-36;Secretário Executivo;BLOCO B;SNDA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Angela Agudo Correa Barros;042.209.981-36;Secretário Executivo;BLOCO B;SEFIC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ediana Pereira Barbosa ;026.888.201-09;Secretário Executivo;BLOCO U;CGCE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Edinalva dos Santos Silva;387.875.632-15;Secretário Executivo;BLOCO U;DOPC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Eliane Aparecida Cotta de Oliveira;023.881.981-78;Secretário Executivo;BLOCO U;CONJUR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Fabia Cordeiro Batista Freitas;830.065.671-53;Secretário Executivo;BLOCO B;SEDEC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Gidalva Valdevino de Sousa;494.666.231-68;Secretário Executivo;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Helena Rodrigues da Silva;035.990.571-41;Secretário Executivo;BLOCO U;GM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Issabelle Luiza Teixeira Mendes;000.929.041-90;Secretário Executivo;BLOCO B;SNAV
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Josineide Caldeira Soares;620.202.181-00;Secretário Executivo;BLOCO U;SPOA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Karina de Sa Chaves Almeida ;071.936.281-06;Secretário Executivo;VENANCIO;DAINV
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Karla da Silva Rezende Alves;524.150.821-04;Secretário Executivo;BLOCO B;DLLB
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Jamile Araujo;795.303.201-59;Secretário Executivo;BLOCO U;SNINFRA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Kelce Paula de Souza ;640.940.301-15;Secretário Executivo;BLOCO B;SEFIC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Kerolay Nascimento Oliveira Santos;053.526.331-79;Secretário Executivo;BLOCO U;GM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Laiss Carolina Ramalho Alves de Oliveira;090.974.829-25;Secretário Executivo;VENANCIO;STII
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lucelia Feijo Lima;889.967.351-91;Secretário Executivo;BLOCO B;DESNC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Luciana de Oliveira Souza;703.425.201-72;Secretário Executivo;BLOCO U;SNDTUR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Marcia Galvao da Silva;007.016.911-07;Secretário Executivo;BLOCO B;SNDA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Maria Rita Pereira Barbosa;399.428.641-72;Secretário Executivo;VENANCIO;DEQUA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Mariam Mohamed Hamed;691.203.821-20;Secretário Executivo;BLOCO U;ASDOC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Mercia Rosangela Marinho Dias;665.045.621-72;Secretário Executivo;VENANCIO;DME
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Michelle Amodeo de Oliveira ;985.000.151-87;Secretário Executivo;BLOCO U;ASCOM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Miriam Amorim Nascimento da Silva Leite;833.428.421-72;Secretário Executivo;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Silvania Lopes Ferreira;927.008.291.15;Secretário Executivo;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Simone Souza de Araujo Oliveira;016.197.581-05;Secretário Executivo;BLOCO B;SECULT 
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Suellen Pereira de Sousa;056.836.561-50;Secretário Executivo;BLOCO B;SGFT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tamyres Pereira da Silva Ottoni;022.886.351-18;Secretário Executivo;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tania Marcia Scheid Ninaut Duarte;225.571.131-15;Secretário Executivo;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tania Maria Themoteo ;553.215.001-00;Secretário Executivo;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tassia Caroline Souza França ;014.522.881-94;Secretário Executivo;BLOCO B;SECDC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thais dos Santos Marques;038.109.981-76;Secretário Executivo;BLOCO U;GSE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thais Moura dos Santos;048.511.221-36;Secretário Executivo;VENANCIO;DIMEC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Zilneide Tavares de Andrade;762.888.461-04;Secretário Executivo;BLOCO U;DIETUR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Adriana Alves Almeida da Silva;011.462.041-59;Técnico em Secretariado;BLOCO U;CGAP
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Adriano Francisco Gomes de Sousa;037.594.771-00;Técnico em Secretariado;BLOCO B;CGICP
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Alyne Sousa da Silva;020.668.931-45;Técnico em Secretariado;BLOCO U;GSE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Angelica Fernandes Rodrigues;876.877.473-72;Técnico em Secretariado;BLOCO B;CGPC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Paula Silva Ribeiro;001.503.271-02;Técnico em Secretariado;BLOCO B;DLLLB
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Antonia Kelly de Sousa;008.223.421-38;Técnico em Secretariado;BDB;CGDNBP
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Aparecida Costa;780.700.743-53;Técnico em Secretariado;BLOCO U;CGCE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Beatriz Von Pfuhl Zanganelli Hardman Paes;030.159.281-04;Técnico em Secretariado;BLOCO B;CGDA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Carla Maria da Silva Ferreira Almeida;047.579.604-76;Técnico em Secretariado;BLOCO B;CGEFI
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Carla Maria de Oliveira Araujo;659.899.023-87;Técnico em Secretariado;BLOCO B;CGICP
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Carla Soares Bernadino;722.785.951-72;Técnico em Secretariado;BLOCO U;COPAR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Claudia Aucione Gonçalves Matheus;040.950.871-37;Técnico em Secretariado;BLOCO U;GSNDTUR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Claudio Macio da Silva;031.345.571-69;Técnico em Secretariado;BLOCO B;COADM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Cleber Pereira Caixeta;036.057.626-54;Técnico em Secretariado;BLOCO B;COGEP
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Clecia da Silva Batista;021.986.381-42;Técnico em Secretariado;BLOCO B;CGARE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Cleudes Nunes Veras;259.347.401-72;Técnico em Secretariado;VENANCIO;OUV
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Dayanne Laryssa da Silva Sena ;038.656.181-89;Técnico em Secretariado;VENANCIO;CGSDI
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Debbie Gloria de Araujo Nunes da  Silva;936.107.771-68;Técnico em Secretariado;VENANCIO;CGINV
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Diekson de Queiroz Vieira;019.155.601-79;Técnico em Secretariado;BLOCO B;CGEOF
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Edinaide Santos da Silva;707.302.702.97;Técnico em Secretariado;BLOCO U;CGMOB
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Edna Pereira Valverde Franca;015.451.381-41;Técnico em Secretariado;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Carolina dos Reis;793.953.501-30;Secretario Executivo Bilíngue;BLOCO U;AERI
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Livia Maria Arantes Ibiapino;056.964.401-18;Secretario Executivo Bilíngue;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Michelle de Oliveira Ayres;584.210.251-04;Secretario Executivo Bilíngue;BLOCO U;SE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Rosangela da Silva Sobrinha;015.652.801-05;Secretario Executivo Bilíngue;BLOCO U;SE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;POSTO VAGO;;Secretario Executivo Bilíngue;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Sergio Tavares Santos ;006.826.041-51;Secretario Executivo Bilíngue;BLOCO U;SGE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thaysa Guimaraes Silva;029.622.541-01;Secretario Executivo Bilíngue;BLOCO U;COPAR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Lucia de Jesus Santos Barbosa;620.766.981-91;Secretário Executivo;BLOCO U;GM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Paula Avalone dos Santos;025.017.271-26;Secretário Executivo;BLOCO U;ASTEC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Paula de Sousa Bagno da Silva;008.838.473-02;Secretário Executivo;BLOCO U;SNAIC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Andreia Justino da Costa;025.369.631-36;Secretário Executivo;BLOCO B;SNDA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Angela Agudo Correa Barros;042.209.981-36;Secretário Executivo;BLOCO B;SEFIC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ediana Pereira Barbosa ;026.888.201-09;Secretário Executivo;BLOCO U;CGCE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Edinalva dos Santos Silva;387.875.632-15;Secretário Executivo;BLOCO U;DOPC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Eliane Aparecida Cotta de Oliveira;023.881.981-78;Secretário Executivo;BLOCO U;CONJUR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Fabia Cordeiro Batista Freitas;830.065.671-53;Secretário Executivo;BLOCO B;SEDEC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Gidalva Valdevino de Sousa;494.666.231-68;Secretário Executivo;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Helena Rodrigues da Silva;035.990.571-41;Secretário Executivo;BLOCO U;GM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Issabelle Luiza Teixeira Mendes;000.929.041-90;Secretário Executivo;BLOCO B;SNAV
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Josineide Caldeira Soares;620.202.181-00;Secretário Executivo;BLOCO U;SPOA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Karina de Sa Chaves Almeida ;071.936.281-06;Secretário Executivo;VENANCIO;DAINV
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Karla da Silva Rezende Alves;524.150.821-04;Secretário Executivo;BLOCO B;DLLB
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Jamile Araujo;795.303.201-59;Secretário Executivo;BLOCO U;SNINFRA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Kelce Paula de Souza ;640.940.301-15;Secretário Executivo;BLOCO B;SEFIC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Kerolay Nascimento Oliveira Santos;053.526.331-79;Secretário Executivo;BLOCO U;GM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Laiss Carolina Ramalho Alves de Oliveira;090.974.829-25;Secretário Executivo;VENANCIO;STII
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lucelia Feijo Lima;889.967.351-91;Secretário Executivo;BLOCO B;DESNC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Luciana de Oliveira Souza;703.425.201-72;Secretário Executivo;BLOCO U;SNDTUR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Marcia Galvao da Silva;007.016.911-07;Secretário Executivo;BLOCO B;SNDA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Maria Rita Pereira Barbosa;399.428.641-72;Secretário Executivo;VENANCIO;DEQUA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Mariam Mohamed Hamed;691.203.821-20;Secretário Executivo;BLOCO U;ASDOC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Mercia Rosangela Marinho Dias;665.045.621-72;Secretário Executivo;VENANCIO;DME
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Michelle Amodeo de Oliveira ;985.000.151-87;Secretário Executivo;BLOCO U;ASCOM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Miriam Amorim Nascimento da Silva Leite;833.428.421-72;Secretário Executivo;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Silvania Lopes Ferreira;927.008.291.15;Secretário Executivo;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Simone Souza de Araujo Oliveira;016.197.581-05;Secretário Executivo;BLOCO B;SECULT 
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Suellen Pereira de Sousa;056.836.561-50;Secretário Executivo;BLOCO B;SGFT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tamyres Pereira da Silva Ottoni;022.886.351-18;Secretário Executivo;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tania Marcia Scheid Ninaut Duarte;225.571.131-15;Secretário Executivo;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tania Maria Themoteo ;553.215.001-00;Secretário Executivo;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tassia Caroline Souza França ;014.522.881-94;Secretário Executivo;BLOCO B;SECDC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thais dos Santos Marques;038.109.981-76;Secretário Executivo;BLOCO U;GSE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thais Moura dos Santos;048.511.221-36;Secretário Executivo;VENANCIO;DIMEC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Zilneide Tavares de Andrade;762.888.461-04;Secretário Executivo;BLOCO U;DIETUR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Adriana Alves Almeida da Silva;011.462.041-59;Técnico em Secretariado;BLOCO U;CGAP
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Adriano Francisco Gomes de Sousa;037.594.771-00;Técnico em Secretariado;BLOCO B;CGICP
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Alyne Sousa da Silva;020.668.931-45;Técnico em Secretariado;BLOCO U;GSE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Angelica Fernandes Rodrigues;876.877.473-72;Técnico em Secretariado;BLOCO B;CGPC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ana Paula Silva Ribeiro;001.503.271-02;Técnico em Secretariado;BLOCO B;DLLLB
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Antonia Kelly de Sousa;008.223.421-38;Técnico em Secretariado;BDB;CGDNBP
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Aparecida Costa;780.700.743-53;Técnico em Secretariado;BLOCO U;CGCE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Beatriz Von Pfuhl Zanganelli Hardman Paes;030.159.281-04;Técnico em Secretariado;BLOCO B;CGDA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Carla Maria da Silva Ferreira Almeida;047.579.604-76;Técnico em Secretariado;BLOCO B;CGEFI
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Carla Maria de Oliveira Araujo;659.899.023-87;Técnico em Secretariado;BLOCO B;CGICP
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Carla Soares Bernadino;722.785.951-72;Técnico em Secretariado;BLOCO U;COPAR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Claudia Aucione Gonçalves Matheus;040.950.871-37;Técnico em Secretariado;BLOCO U;GSNDTUR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Claudio Macio da Silva;031.345.571-69;Técnico em Secretariado;BLOCO B;COADM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Cleber Pereira Caixeta;036.057.626-54;Técnico em Secretariado;BLOCO B;COGEP
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Clecia da Silva Batista;021.986.381-42;Técnico em Secretariado;BLOCO B;CGARE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Cleudes Nunes Veras;259.347.401-72;Técnico em Secretariado;VENANCIO;OUV
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Dayanne Laryssa da Silva Sena ;038.656.181-89;Técnico em Secretariado;VENANCIO;CGSDI
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Debbie Gloria de Araujo Nunes da  Silva;936.107.771-68;Técnico em Secretariado;VENANCIO;CGINV
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Diekson de Queiroz Vieira;019.155.601-79;Técnico em Secretariado;BLOCO B;CGEOF
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Edinaide Santos da Silva;707.302.702.97;Técnico em Secretariado;BLOCO U;CGMOB
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Edna Pereira Valverde Franca;015.451.381-41;Técnico em Secretariado;BLOCO B;SECULT
 72031.004154/2020-76;016/2020;10.427.965/0001-19;Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Eliude Oliveira Cabral;014.411.741-09;Técnico em Secretariado;BLOCO B;CGSNBP
 72031.004154/2020-76;016/2020;10.427.965/0001-19;Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Evanda Martins de Melo;538.421.461.91;Técnico em Secretariado;BLOCO B;CGAH
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Filipe Satyro Mamede;034.833.091-01;Técnico em Secretariado;BLOCO B;COADM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Flavio Gonçalves Batista;018.387.361-07;Técnico em Secretariado;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Francis Junio Veloso Ferreira Meneses;058.178.802-39;Técnico em Secretariado;BLOCO U;CGCE
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Giovanna Talyta de Souza Moraes;086.884.531-01;Técnico em Secretariado;BLOCO B;CGGT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Grace Kelly dos Santos Marques;046.588.961.17;Técnico em Secretariado;VENANCIO;CGGT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Hevylane Conde Soares Morais ;031.229.031-48;Técnico em Secretariado;BLOCO U;CGRL
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Hudson Martins Queiros;034.792.331-39;Técnico em Secretariado;VENANCIO;CGST
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ilma Alves Trindade;711.036.001-68;Técnico em Secretariado;BLOCO B;SECULT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Jane Carla dos Santos Ferreira;931.244.811-00;Técnico em Secretariado;BLOCO U;CGJC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Jessica Pinheiro de Lima ;114.504.376-30;Técnico em Secretariado;VENANCIO;CGINF
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Julio Cesar da Silva Viana;040.373.511-45;Técnico em Secretariado;VENANCIO;CGPRO
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lailanna Lorrayne Pereira da Silva Albuquerque;024.882.321-30;Técnico em Secretariado;BLOCO U;CGAJT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Larissa Maiana Seara de Lima;010.997.081-09;Técnico em Secretariado;VENANCIO;CGCRED
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Leandro Soares da Costa;944.633.441-15;Técnico em Secretariado;BLOCO B;CGADP
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Leidiane Maria de Andrade;035.957.011-94;Técnico em Secretariado;BLOCO B;CGDA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Leonardo Antunes de Jesus;047.469.821-12;Técnico em Secretariado;BLOCO B;CGGEC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Liz Claudia Faria;899.514.767-91;Técnico em Secretariado;BLOCO U;ASDOC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lourdes Batista de Souza;804.865.841-00;Técnico em Secretariado;BLOCO U;CGCI
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Luciane Rodrigues Medrado de Oliveira;894.452.791-15;Técnico em Secretariado;BLOCO U;CGMAP
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lucimar Souza de Loa;646.755.301-25;Técnico em Secretariado;BLOCO B;CGAAR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lucineia Moreira de Jesus;030.152.861-61;Técnico em Secretariado;BLOCO U;CGAS
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ludimira Ferreira da Silva Santiago;034.162.260-155;Técnico em Secretariado;BLOCO U;GSNAIC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Maria de Fatima Pereira dos Santos;289.892.601-91;Técnico em Secretariado;BLOCO B;CGEAI
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Maria do Socorro de Sousa Barbosa;652.686.012-53;Técnico em Secretariado;BLOCO B;DEDIC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Maria Gabriela da Mata Gouveia;028.365.491-06;Técnico em Secretariado;BLOCO B;COADM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Marlene Aparecida Castro Ozorio;006.320.435-55;Técnico em Secretariado;BLOCO B;DESNC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Mikaena Alves Rodrigues;013.754.883-41;Técnico em Secretariado;BLOCO B;CGAAR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Paola Hilário Rocha;068.042.911-58;Técnico em Secretariado;BLOCO B;DDAGM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Patricia Tavares dos Santos;809.368.061-68;Técnico em Secretariado;BLOCO B;COADM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Paulo Henrique Vieira Soares;030.625.571-50;Técnico em Secretariado;VENANCIO;AECI
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Pollyana Alves Carvalho;022.573.261-05;Técnico em Secretariado;BLOCO U;CGRM
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Raquel Mendes de Oliveira;029.437.331-48;Técnico em Secretariado;BLOCO B;CGCPD
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Rayssa Araujo de Sousa;047.807.891-92;Técnico em Secretariado;BLOCO U;CGOFC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Rita de Kassia Fortunato Freitas Medeiros;017.911.911-77;Técnico em Secretariado;BLOCO B;CGMOT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Rosimeire de Sousa Camaro;579.453.301-34;Técnico em Secretariado;BLOCO B;SEDEC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Salvadora Guarino Sousa;933.199.403-68;Técnico em Secretariado;BLOCO B;CGAAR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Sarah Sa Liberal;043.141.761-05;Técnico em Secretariado;BLOCO B;CGEFI
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Shirlei Cristina Machado;793.831.491-91;Técnico em Secretariado;BLOCO B;CGMON
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Shirley Cordeiro de Souza;023.771.271-77;Técnico em Secretariado;BLOCO B;CGMON
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Shirley Garcia Paiva;855.586.721-53;Técnico em Secretariado;BLOCO U;CGEVENT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Silvania Onora da Silva;588.404.271-04;Técnico em Secretariado;BLOCO U;CGAJP
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Susana Cristina Alves de França Azevedo;689.886.301-06;Técnico em Secretariado;VENANCIO;CGQT
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tatiana Barbosa Reis;001.497.101-19;Técnico em Secretariado;VENANCIO;CGTR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thais Alves Campos;054.305.061-09;Técnico em Secretariado;BLOCO U;SNINFRA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thamara Oliveira da Silva ;052.421.381-06;Técnico em Secretariado;BLOCO U;CGDI
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Valdenia dos Santos Rocha Gomes;581.021.325-15;Técnico em Secretariado;BLOCO U;CGDTUR
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Valdete Macedo de Oliveira Matos;067.475.308-96;Técnico em Secretariado;BLOCO U;ASDOC
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Valeria de Jesus Santos;824.246.671-87;Técnico em Secretariado;BLOCO U;CGAS
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Viviam Hellem Cabral Castro ;064.760.121-42;Técnico em Secretariado;BLOCO U;SPOA
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Wendell Paes da Silva;956.477.083.15;Técnico em Secretariado;VENANCIO;COREG
-72031.004154/2020-76;016/2020;"10.427.965/0001-19
-";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ysmenia Fernandes  Alves;050.112.111-00;Técnico em Secretariado;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Filipe Satyro Mamede;034.833.091-01;Técnico em Secretariado;BLOCO B;COADM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Flavio Gonçalves Batista;018.387.361-07;Técnico em Secretariado;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Francis Junio Veloso Ferreira Meneses;058.178.802-39;Técnico em Secretariado;BLOCO U;CGCE
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Giovanna Talyta de Souza Moraes;086.884.531-01;Técnico em Secretariado;BLOCO B;CGGT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Grace Kelly dos Santos Marques;046.588.961.17;Técnico em Secretariado;VENANCIO;CGGT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Hevylane Conde Soares Morais ;031.229.031-48;Técnico em Secretariado;BLOCO U;CGRL
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Hudson Martins Queiros;034.792.331-39;Técnico em Secretariado;VENANCIO;CGST
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ilma Alves Trindade;711.036.001-68;Técnico em Secretariado;BLOCO B;SECULT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Jane Carla dos Santos Ferreira;931.244.811-00;Técnico em Secretariado;BLOCO U;CGJC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Jessica Pinheiro de Lima ;114.504.376-30;Técnico em Secretariado;VENANCIO;CGINF
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Julio Cesar da Silva Viana;040.373.511-45;Técnico em Secretariado;VENANCIO;CGPRO
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lailanna Lorrayne Pereira da Silva Albuquerque;024.882.321-30;Técnico em Secretariado;BLOCO U;CGAJT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Larissa Maiana Seara de Lima;010.997.081-09;Técnico em Secretariado;VENANCIO;CGCRED
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Leandro Soares da Costa;944.633.441-15;Técnico em Secretariado;BLOCO B;CGADP
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Leidiane Maria de Andrade;035.957.011-94;Técnico em Secretariado;BLOCO B;CGDA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Leonardo Antunes de Jesus;047.469.821-12;Técnico em Secretariado;BLOCO B;CGGEC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Liz Claudia Faria;899.514.767-91;Técnico em Secretariado;BLOCO U;ASDOC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lourdes Batista de Souza;804.865.841-00;Técnico em Secretariado;BLOCO U;CGCI
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Luciane Rodrigues Medrado de Oliveira;894.452.791-15;Técnico em Secretariado;BLOCO U;CGMAP
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lucimar Souza de Loa;646.755.301-25;Técnico em Secretariado;BLOCO B;CGAAR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Lucineia Moreira de Jesus;030.152.861-61;Técnico em Secretariado;BLOCO U;CGAS
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ludimira Ferreira da Silva Santiago;034.162.260-155;Técnico em Secretariado;BLOCO U;GSNAIC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Maria de Fatima Pereira dos Santos;289.892.601-91;Técnico em Secretariado;BLOCO B;CGEAI
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Maria do Socorro de Sousa Barbosa;652.686.012-53;Técnico em Secretariado;BLOCO B;DEDIC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Maria Gabriela da Mata Gouveia;028.365.491-06;Técnico em Secretariado;BLOCO B;COADM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Marlene Aparecida Castro Ozorio;006.320.435-55;Técnico em Secretariado;BLOCO B;DESNC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Mikaena Alves Rodrigues;013.754.883-41;Técnico em Secretariado;BLOCO B;CGAAR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Paola Hilário Rocha;068.042.911-58;Técnico em Secretariado;BLOCO B;DDAGM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Patricia Tavares dos Santos;809.368.061-68;Técnico em Secretariado;BLOCO B;COADM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Paulo Henrique Vieira Soares;030.625.571-50;Técnico em Secretariado;VENANCIO;AECI
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Pollyana Alves Carvalho;022.573.261-05;Técnico em Secretariado;BLOCO U;CGRM
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Raquel Mendes de Oliveira;029.437.331-48;Técnico em Secretariado;BLOCO B;CGCPD
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Rayssa Araujo de Sousa;047.807.891-92;Técnico em Secretariado;BLOCO U;CGOFC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Rita de Kassia Fortunato Freitas Medeiros;017.911.911-77;Técnico em Secretariado;BLOCO B;CGMOT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Rosimeire de Sousa Camaro;579.453.301-34;Técnico em Secretariado;BLOCO B;SEDEC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Salvadora Guarino Sousa;933.199.403-68;Técnico em Secretariado;BLOCO B;CGAAR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Sarah Sa Liberal;043.141.761-05;Técnico em Secretariado;BLOCO B;CGEFI
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Shirlei Cristina Machado;793.831.491-91;Técnico em Secretariado;BLOCO B;CGMON
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Shirley Cordeiro de Souza;023.771.271-77;Técnico em Secretariado;BLOCO B;CGMON
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Shirley Garcia Paiva;855.586.721-53;Técnico em Secretariado;BLOCO U;CGEVENT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Silvania Onora da Silva;588.404.271-04;Técnico em Secretariado;BLOCO U;CGAJP
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Susana Cristina Alves de França Azevedo;689.886.301-06;Técnico em Secretariado;VENANCIO;CGQT
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Tatiana Barbosa Reis;001.497.101-19;Técnico em Secretariado;VENANCIO;CGTR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thais Alves Campos;054.305.061-09;Técnico em Secretariado;BLOCO U;SNINFRA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Thamara Oliveira da Silva ;052.421.381-06;Técnico em Secretariado;BLOCO U;CGDI
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Valdenia dos Santos Rocha Gomes;581.021.325-15;Técnico em Secretariado;BLOCO U;CGDTUR
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Valdete Macedo de Oliveira Matos;067.475.308-96;Técnico em Secretariado;BLOCO U;ASDOC
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Valeria de Jesus Santos;824.246.671-87;Técnico em Secretariado;BLOCO U;CGAS
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Viviam Hellem Cabral Castro ;064.760.121-42;Técnico em Secretariado;BLOCO U;SPOA
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Wendell Paes da Silva;956.477.083.15;Técnico em Secretariado;VENANCIO;COREG
+72031.004154/2020-76;016/2020;"10.427.965/0001-19";Instituto Interamericano De Desenvolvimento Humano - Bem Brasil;Ysmenia Fernandes  Alves;050.112.111-00;Técnico em Secretariado;BLOCO B;SECULT
 72031.012330/2017-48;004/2018;03.073.654/0001-33;ZP Conservação e Limpeza LTDA;Cleber Barbosa Da Silva;709.566.851-53;Bombeiro Civil Noturno;ANEXO-BDB;BIBLIOTECA
 72031.012330/2017-48;004/2018;03.073.654/0001-33;ZP Conservação e Limpeza LTDA;Lucas Monteiro Borges;059.389.441-39;Bombeiro Civil Diurno;ANEXO-BDB;BIBLIOTECA
 72031.012330/2017-48;004/2018;03.073.654/0001-33;ZP Conservação e Limpeza LTDA;Rosangela Ferreira Lima;999.956.381-34;Bombeiro Civil Diurno;ANEXO-BDB;BIBLIOTECA
